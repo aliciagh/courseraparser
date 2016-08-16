@@ -1,7 +1,7 @@
 <?php
 
 /* File with data in json format */
-define('DATA_FILE', 'rea_clickstream_export');
+define('DATA_FILE', 'clickstream_export');
 
 /** Database */
 define('DB_NAME', 'databasename');
@@ -20,8 +20,8 @@ define('DB_CHARSET_G', 'utf8');
 /** Course dates: day-month-year */
 define('COURSE_END', '28-09-2014');
 define('COURSE_EXTRA', '29-09-2014');
-define('COURSE_URL', 'https://class.coursera.org/innovacionrea-002');
-define('COURSE_PATH', 'innovacionrea-002');
+define('COURSE_URL', 'https://class.coursera.org/coursepath');
+define('COURSE_PATH', 'coursepath');
 define('SEMANA1_INI', '01-09-2014 00:00:00'); // 1-7 de septiembre 2014
 define('SEMANA1_FIN', '07-09-2014 23:59:59');
 define('SEMANA2_INI', '08-09-2014 00:00:00'); // 8-14 de septiembre 2014
